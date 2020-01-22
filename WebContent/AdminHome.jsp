@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome Admin <%=session.getAttribute("username") %></h1>
+<h1>Welcome Admin</h1>
 </body>
 </html>
